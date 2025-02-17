@@ -3,6 +3,7 @@
 - https://odin-lang.org/
   - https://github.com/odin-lang/Odin
   - Odin Programming Language | The Data-Oriented Language for Sane Software Development.
+  - C++로 만들어진 언어
 - [공식문서https://odin-lang.org/docs/](https://odin-lang.org/docs/)
 
 <hr />
