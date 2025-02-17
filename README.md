@@ -9,7 +9,8 @@
 <hr />
 
 # 오딘 언어 소개
--  What is Odin 
+-  What is Odin
+-  https://graphitemaster.github.io/odin_review/(Last updated Tuesday, September 10th, 2022)
   - For those unfamiliar, Odin is a systems programming language that is more conservative in its design than other newer programming languages such as Rust, Zig, and Carbon. The design ideology around Odin is to provide some greatly needed quality of life improvements over the lingua-franca of systems languages: C, while still staying as simple as C. This makes it a really attractive language for those who are unhappy with the increased complexity that other systems languages like to encourage.
 - 오딘이란 무엇인가요
   - 익숙하지 않은 분들에게 오딘은 Rust, Zig, Carbon과 같은 다른 최신 프로그래밍 언어보다 디자인이 더 보수적인 시스템 프로그래밍 언어입니다. 오딘의 설계 이념은 시스템 언어의 lingua-franca보다 삶의 질을 크게 향상시키는 것입니다: C, 여전히 C처럼 단순하게 유지하면서 말이죠. 이는 다른 시스템 언어들이 장려하는 복잡성 증가에 불만을 가진 사람들에게 정말 매력적인 언어가 됩니다.
